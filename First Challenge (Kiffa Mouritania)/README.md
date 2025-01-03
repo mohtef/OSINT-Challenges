@@ -1,7 +1,7 @@
 [Challenge Link](https://gralhix.com/list-of-osint-exercises/osint-exercise-001/)
 
 
-![Source](Source.png)SS
+![Source](Source.png)
 Steps in Solving:
 1. First look at the photo I thought it's Afghanistan because of the woman blue wear and for the Arabic source I didn't give attention to it.
 2. The city name is in the tweet post so it shorted the way for me a lot searching only in the city.
@@ -24,4 +24,5 @@ Steps in Solving:
 In the end the exact location of this photo is :
 1. **Lang:  11°23'51.97"W** 
 2. **Lat:  16°36'34.06"N**
+3. Solving Time: 15 Mins
 
