@@ -1,7 +1,7 @@
 [Challenge Link](https://gralhix.com/list-of-osint-exercises/osint-exercise-001/)
 
 
-![Source Photo](source.png)
+![Source](Source.png)SS
 Steps in Solving:
 1. First look at the photo I thought it's Afghanistan because of the woman blue wear and for the Arabic source I didn't give attention to it.
 2. The city name is in the tweet post so it shorted the way for me a lot searching only in the city.
