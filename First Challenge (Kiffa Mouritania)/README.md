@@ -2,13 +2,14 @@
 
 
 ![Source](Source.png)
-Steps in Solving:
+
+#### Steps in Solving:
 1. First look at the photo I thought it's Afghanistan because of the woman blue wear and for the Arabic source I didn't give attention to it.
 2. The city name is in the tweet post so it shorted the way for me a lot searching only in the city.
 3. using Google Earth trying to find a road with the same specifications but before that I changed the date to the date in the post **Feb 20, 2013** ![map-date](map-date.png)
 4. Looking again to the resource photo to figure the main specifications:
    ![Source-specifications](Source-specifications.png)
-   looking at this photo we will see: 
+		looking at this photo we will see: 
 	   1. Long way reaching to a far place, may be out of the city. (We have to consider it)
 	   2. Small house in the right behind it some sort of heavy tree (red 1)
 	   3. After the house there is something like a small wall with trees at the end.(red 2)
