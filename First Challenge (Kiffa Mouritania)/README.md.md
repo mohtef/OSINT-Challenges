@@ -1,5 +1,6 @@
 [Challenge Link](https://gralhix.com/list-of-osint-exercises/osint-exercise-001/)
 
+
 ![[Pasted image 20250103033650.png]]
 Steps in Solving:
 1. First look at the photo I thought it's Afghanistan because of the woman blue wear and for the Arabic source I didn't give attention to it.
@@ -23,3 +24,6 @@ Steps in Solving:
 In the end the exact location of this photo is :
 1. **Lang:  11°23'51.97"W** 
 2. **Lat:  16°36'34.06"N**
+
+
+![My Image](Pasted image 20250103033650.png)
