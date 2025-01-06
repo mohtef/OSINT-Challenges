@@ -13,7 +13,17 @@ what I will do know first reverse image search and search for specific details a
 In this [Article](https://turkishminute.com/2024/06/10/erdogan-receive-azerbaijani-president-ankara/) with title "Erdoğan receives Azerbaijani president in Ankara" we will find the the palace which is identically with the source:
 ![Tur-SO](Tur-So.jpg)
 
-In the Article mentioned that the Palace Name is "Presidential Palace in Ankara's Be(sh)tepe neighborhood"
+In the Article mentioned that the Palace Name is "Presidential Palace in Ankara's Be(sh)tepe neighborhood : 'Presidential Complex of Turkey'"
+
 ![Art-Loc](Art-Loc.jpg)
 
-Now Going to google maps to find location 
+in this [article](https://www.theguardian.com/world/gallery/2014/oct/29/turkeys-new-presidential-palace-unveiled-in-pictures) from the Guardian "Turkey's new presidential palace unveiled - in pictures", we will find a picture for the frontside of the palace: 
+![FrontSide](FrontSide.jpg)
+
+#### Results: 
+The palace name: **Presidential Complex of Turkey in Ankara.**
+Palace Coordination's:
+1. **Lat:  39°55'51.02"N** 
+2. **Long:  32°47'54.93"E**
+
+**Solving Time: 5 Mins**
