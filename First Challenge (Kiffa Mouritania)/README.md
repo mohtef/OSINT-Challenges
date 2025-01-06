@@ -23,7 +23,8 @@
    ![Result](Result.png)
 
 In the end the exact location of this photo is :
-1. **Lang:  11°23'51.97"W** 
+1. **Long:  11°23'51.97"W** 
 2. **Lat:  16°36'34.06"N**
 3. Solving Time: 15 Mins
 
+16°36'34.06"N 11°23'51.97"W  
