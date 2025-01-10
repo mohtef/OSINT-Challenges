@@ -11,7 +11,7 @@ c) In which cardinal direction was the camera facing when the photo was taken?
 
 #### Solution:
 * Using google image search at first the result was:
-  ![Search-result](Search-result.jpg)
+  ![Search-result](OSINT-Challenges/Fifth%20Challenge%20(Far%20Island)/Search-result.jpg)
 The Result was a website for a resort called "Oan Resort" with the same photo. [website Link](https://oanresort.wixsite.com/chuuk)
 
 ![Website](website.jpg)
