@@ -1,7 +1,7 @@
 [Challenge Link](https://gralhix.com/list-of-osint-exercises/osint-exercise-001/)
 
 
-![Source](Source.png)
+![Source](OSINT-Challenges/001%20(Kiffa%20Mouritania)/Source.png)
 
 #### Steps in Solving:
 1. First look at the photo I thought it's Afghanistan because of the woman blue wear and for the Arabic source I didn't give attention to it.
@@ -20,7 +20,7 @@
 5. back again to our map: ![Roads](Roads.png)
 	we will find that the top road is only road the reaching to a distant place with a green area in it and the end of the road is an empty space. 
 6. By Zooming we will find the exact place:
-   ![Result](Result.png)
+   ![Result](OSINT-Challenges/001%20(Kiffa%20Mouritania)/Result.png)
 
 In the end the exact location of this photo is :
 1. **Long:  11°23'51.97"W** 

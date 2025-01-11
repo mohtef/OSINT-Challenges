@@ -9,7 +9,7 @@ a) In which zoo are these polar bears located?
 b) What was the temperature at the time of the screenshot?  
 c) What were the exact coordinates of where the bears were lying down?
 
-![Source](Source.jpg)
+![Source](OSINT-Challenges/006/Source.jpg)
 #### Solution:
 First I went to google search to search for the image adding some keywords to the search:
 ![search-google](search-google.jpg) Search result was having a direct information which guided me fast:
@@ -20,7 +20,7 @@ jumping to this website I found this result:
 With identifying the most important signs in the live capture to compare with the source photo:
 ![Source-highlighted](Source-highlighted.jpg)
 Then going to my favorite app **Google Earth** to see the top-view and compare it with the photos with us:
-![map-top](map-top.jpg)
+![map-top](map-Top.jpg)
 we will find that two images are identical 
 
 **Addition:**

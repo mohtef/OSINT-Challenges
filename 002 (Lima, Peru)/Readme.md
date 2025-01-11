@@ -9,7 +9,7 @@ Less Than **30 Minutes.**
 #### Description: 
 This Photo wasn't from a challenge it was from article called [from-images-to-intelligence](https://www.osintcombine.com/post/from-images-to-intelligence) on [osintcombine](www.osintcombine.com) , but I Geolocated this photo with another way than the writer did and it took a little time and step, so here is a walkthrough in how I Solved it.
 
-![Source](Source.png) 
+![Source](OSINT-Challenges/002%20(Lima,%20Peru)/Source.png) 
 
 #### Solving Steps:
 Let's identify the main features in the picture: 
@@ -47,7 +47,7 @@ but let's define another highlights:
 	   3. Pedestrian crossing line.
 
 4. Now Let's change the Perspective of the Map: 
-	![Result](Result.png)
+	![Result](OSINT-Challenges/002%20(Lima,%20Peru)/Result.png)
 	After changing the perspective we will find all elements:
 		1. Building with "CONACO" Signal (Red rectangle).
 		2. Building With A Dome (red rectangle).
