@@ -10,6 +10,7 @@ Pictures from the attack site:
 ![BatYam-05](BatYam-05.png)
 
 **From these pictures, this what we are searching For:**
+
 ![Attack-Top](Attack-Top.png)
 
 And this is what we found:
