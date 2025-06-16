@@ -16,6 +16,7 @@ Pictures from the attack site:
 And this is what we found:
 
 ![Bat-Yam-Building-features](Bat-Yam-Building-features.png)
+
 ![Bat-Yam-Building](Bat-Yam-Building.JPG)
 
 **The Location of this building is:** 
