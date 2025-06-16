@@ -2,6 +2,7 @@ location:
 **32° 1'33.65"N  34°44'58.70"E**
 
 Pictures from the attack site:
+
 ![BatYam-01](BatYam-01.png)
 ![BatYam-02](BatYam-02.png)
 ![BatYam-03](BatYam-03.png)
